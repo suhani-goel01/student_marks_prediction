@@ -1,3 +1,3 @@
 # student_marks_prediction
-Predicting marks using study hours
+Predicting marks using study hours <br>
 Author- Suhanni Goel
